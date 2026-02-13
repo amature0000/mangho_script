@@ -20,7 +20,7 @@
     // --- [설정] ---
     // 
     const TARGET_SUBJECT = "헬망호";
-    const SCAN_INTERVAL = 20000;
+    const SCAN_INTERVAL = 10000;
     const DEADLINE = 10 * 60 * 1000;
     const STORAGE_KEY = 'hd_scanner_last_id';
 
