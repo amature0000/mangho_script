@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         망호파인더
+// @name         망호파인더-no_fg
 // @namespace    http://tampermonkey.net/
 // @version      v0.0.1
-// @description  화면 스캔과 크롤링 로직을 분리했으며, lazy fetching을 통해 ip 밴 가능성을 완화
+// @description  새 글 탐지만
 // @author       amature0000
 // @match        https://gall.dcinside.com/mgallery/board/lists*id=helldiversseries*
 // @match        https://gall.dcinside.com/board/lists*id=helldiversseries*
