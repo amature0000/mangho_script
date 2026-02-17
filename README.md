@@ -6,7 +6,7 @@
 
 개선된 내용은 SEAF-assistant 정식 배포 버전에 반영됩니다.
 
-과거 tempermonkey script 버전은 `5124557` 커밋 시점을 참고하십시오.
+과거 tampermonkey script 버전은 `5124557` 커밋 시점을 참고하십시오.
 
 ---
 
