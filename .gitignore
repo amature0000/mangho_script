@@ -1,0 +1,15 @@
+# System temp files
+.DS_Store
+Thumbs.db
+
+# VS Code profile settings
+.vscode/
+
+# Build packages
+builds/*
+*.zip
+*.crx
+*.pem
+
+# Logs
+*.log
