@@ -20,7 +20,7 @@
 - 신규 모집글 자동 감지 및 토스트 알림 제공
 
 ### configuration
-- 갤러리 폴링 ON/OFF
+- background scanner ON/OFF
 - 폴링 간격 조정 (1~30초)
 - 토스트 알림 지속 시간 조정 (3~30초)
 
