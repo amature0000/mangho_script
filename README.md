@@ -1,12 +1,12 @@
 # MANGHO-detector
 
-> **헬다이버즈 시리즈 갤러리 망호 실시간 감지 및 자동 참여 Chrome 확장 프로그램**
+> **헬다이버즈 갤러리 망호 실시간 감지 확장 프로그램**
 
 해당 프로그램은 [SEAF-assistant](https://github.com/Toddoward/SEAF-Assistant)의 경량화 버전으로, 일부 기능만을 추출하여 개선하였습니다.
 
 개선된 내용은 SEAF-assistant 정식 배포 버전에 반영됩니다.
 
-과거 tempermonkey script 버전은 `5124557` 커밋 시점을 참고하십시오.
+과거 tampermonkey script 버전은 `5124557` 커밋 시점을 참고하십시오.
 
 ---
 
@@ -16,12 +16,12 @@
 - 게시글 목록에서 모집글 제목에 `참가` 버튼을 추가해 즉시 참여 기능 제공
 
 ### background scanner
-- 사용자 설정(1~30초)에 따른 갤러리 폴링
-- 신규 모집글 자동 감지 및 토스트 알림 제공
+- 주기적으로 최신 게시글 탐색
+- 신규 모집글 감지 시 토스트 알림 제공
 
 ### configuration
 - background scanner ON/OFF
-- 폴링 간격 조정 (1~30초)
+- 탐색 주기 조정 (1~30초)
 - 토스트 알림 지속 시간 조정 (3~30초)
 
 ---
