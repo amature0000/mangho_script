@@ -13,7 +13,9 @@
 ## 설치 방법
 
 ### 소스코드 설치
-1. [**Releases 페이지**](../../releases)에서 `Source code (zip)` 다운로드
+1. 녹색 `<> Code` 버튼을 누르고 Download ZIP 으로 압축파일 다운로드
+  > <img width="428" height="359" alt="image" src="https://github.com/user-attachments/assets/4535e1b1-1d68-4af9-a606-3792bcbe73f1" />
+
 2. 압축 해제
 3. Chrome 주소창에 `chrome://extensions/` 입력
 4. **개발자 모드** 활성화
